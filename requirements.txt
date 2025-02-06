@@ -1,0 +1,5 @@
+boto
+paramiko
+mysql-connector
+loguru
+prettytable
